@@ -1,4 +1,4 @@
-# CHOAS
+# Critical Hoax Of An eco-System-stability
 # TODO:
   * Verslag schrijven. 
   * Tijdsevolutie van een matrix (de densiteiten) plotten in functie van beginvoorwaarden. (eventueel)
